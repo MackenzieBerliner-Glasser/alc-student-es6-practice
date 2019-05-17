@@ -5,3 +5,5 @@
 ### Array Methods:
 - `arr.forEach`
 - `arr.map`
+- `arr.filter`
+- `arr.find`
