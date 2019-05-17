@@ -2,7 +2,8 @@
 It allows us to access indexes or properties
 of indexes to filter out what we need.*/
 
-/*iterator returns a falsy value it will not be included in the new array. Otherwise it will be included.*/
+/*iterator returns a falsy value it will not be included in the new array.
+Otherwise it will be included.*/
 
 const pets = [
   { name: 'fluffy', type: 'cat', weight: 10, age: 100 },
@@ -53,11 +54,9 @@ EXAMPLES:
      If the function returns true the item should **NOT** be included in the array.
 
     EX:
-
     const numbers = [10, 20, 30];
     const lessThanFifteen = reject(numbers, fn(number) {
       return number > 15;
     });
     lessThanFifteen // [ 10 ];
-
 */
