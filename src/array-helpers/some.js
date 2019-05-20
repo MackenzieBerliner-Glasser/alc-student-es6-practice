@@ -33,3 +33,9 @@ const falseReturn = people.some(person => person.name === 'Jon');
 
 console.log(trueReturn, falseReturn);
 
+/*
+  Exercises:
+  1. Given an array of numbers return true if some of the numbers are less than 3.
+  2. *** Challenge*** Given an array of numbers check if each number is a fibonacci number.
+    - HINT: You will have to create a function that checks if a number is and then call it in your iterator.
+*/
