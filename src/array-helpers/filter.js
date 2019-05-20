@@ -44,7 +44,7 @@ const commentsForPost = (post, comments) => {
 console.log(commentsForPost(post, comments));
 
 /*
-EXAMPLES:
+Exercises:
 
   1. create an array of user objects with an id property and a admin property that is a boolean.
     -filter the array of users objects so you only return those who have admin access.

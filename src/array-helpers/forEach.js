@@ -15,7 +15,7 @@ const addNums = num => (sum += num);
 numbers.forEach(addNums);
 console.log('sum', sum);
 
-//practice:
+//Exercises:
 //create a function that loops over an array of names and adds a greeting to the beginning of each name using a forEach.
 //loop over an array of shape objects that have width and height properties. Store their areas in a separate array.
 

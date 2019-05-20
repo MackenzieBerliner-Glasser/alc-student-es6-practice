@@ -19,7 +19,9 @@ const cars = [
 const prices = cars.map(car => car.price);
 console.log(prices);
 
-/*pluck functionality is very common
+/*
+Exercises :
+pluck functionality is very common
  to showcase this we are going to make a function pluck
 
  const pluck = (arr, prop) => {
