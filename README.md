@@ -7,3 +7,5 @@
 - `arr.map`
 - `arr.filter`
 - `arr.find`
+- `arr.every`
+- `arr.some`
