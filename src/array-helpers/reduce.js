@@ -36,3 +36,9 @@ console.log(balancedParens('()()()'));
 
 */
 
+/*
+  write a function unique that takes an array of numbers and returns the unique values.
+
+  EX: given [1, 1, 2, 3, 4, 4, 1]  -->> [1, 2, 3, 4];
+  
+*/
