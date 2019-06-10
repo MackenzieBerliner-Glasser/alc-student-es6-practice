@@ -4,7 +4,11 @@
 
 ### Var vs Const vs Let:
 
-Brief overviews of `var` before ES6 as well as advantages and disadvantages. Also includes when and why we use `const` vs `let` and their intricacies.
+Brief overview of `var` before ES6 as well as advantages and disadvantages. Also includes when and why we use `const` vs `let` and their intricacies.
+
+### Template Strings
+
+Overview of syntactic sugar that allows for nice string interpolation.
 
 ### Array Methods:
 - `arr.forEach`
