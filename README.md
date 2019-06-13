@@ -12,6 +12,11 @@ Overview of syntactic sugar that allows for nice string interpolation.
 
 ### Arrow Functions
 
+Overview of syntactic sugar that reworks the `function` keyword.
+
+- `syntax`, `single parameter` `implicit return`
+- context of `this` and when to use arrow functions.
+
 ### Array Methods:
 - `arr.forEach`
 - `arr.map`
@@ -20,3 +25,7 @@ Overview of syntactic sugar that allows for nice string interpolation.
 - `arr.every`
 - `arr.some`
 - `arr.reduce`
+
+### Object Literals:
+
+Overview of `object literals` and how ES6 syntax can help reduce code. 
