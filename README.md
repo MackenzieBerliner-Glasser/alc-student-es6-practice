@@ -10,6 +10,8 @@ Brief overview of `var` before ES6 as well as advantages and disadvantages. Also
 
 Overview of syntactic sugar that allows for nice string interpolation.
 
+### Arrow Functions
+
 ### Array Methods:
 - `arr.forEach`
 - `arr.map`
