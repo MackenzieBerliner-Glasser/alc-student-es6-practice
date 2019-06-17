@@ -26,14 +26,6 @@ Overview of syntactic sugar that reworks the `function` keyword.
 - `arr.some`
 - `arr.reduce`
 
-### Destructuring:
-
-Overview on what destructuring is.
-
--Objects
--Arrays
--Using both!
-
 ### Object Literals:
 
 Overview of `object literals` and how ES6 syntax can help reduce code.
@@ -43,4 +35,22 @@ Overview of `object literals` and how ES6 syntax can help reduce code.
 Overview of how rest params and spread operator works.
 
 Note: Separate folders for each example `rest-params` and `spread-operator`.
+
+### Destructuring:
+
+Overview on what destructuring is.
+
+-Objects
+-Arrays
+-Using both!
+
+### Classes:
+
+- Before ES6 class example of inheritance and refactored example.
+
+Concepts:
+- `prototype` keyword
+- `class` keyword
+- `extends` keyword
+- `super()` keyword
 
