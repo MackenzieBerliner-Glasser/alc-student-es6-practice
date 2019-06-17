@@ -6,11 +6,11 @@
 
 Brief overview of `var` before ES6 as well as advantages and disadvantages. Also includes when and why we use `const` vs `let` and their intricacies.
 
-### Template Strings
+### Template Strings:
 
 Overview of syntactic sugar that allows for nice string interpolation.
 
-### Arrow Functions
+### Arrow Functions:
 
 Overview of syntactic sugar that reworks the `function` keyword.
 
@@ -26,6 +26,21 @@ Overview of syntactic sugar that reworks the `function` keyword.
 - `arr.some`
 - `arr.reduce`
 
+### Destructuring:
+
+Overview on what destructuring is.
+
+-Objects
+-Arrays
+-Using both!
+
 ### Object Literals:
 
-Overview of `object literals` and how ES6 syntax can help reduce code. 
+Overview of `object literals` and how ES6 syntax can help reduce code.
+
+### Rest and Spread
+
+Overview of how rest params and spread operator works.
+
+Note: Separate folders for each example `rest-params` and `spread-operator`.
+
