@@ -54,3 +54,12 @@ Concepts:
 - `extends` keyword
 - `super()` keyword
 
+### Generators:
+
+- What is a generator
+- `for of loops`
+- Intro to generators
+  - `yield` keyword
+  - `function*` and what it means
+  - generator delegation.
+

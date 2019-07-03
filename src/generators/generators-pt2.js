@@ -8,7 +8,7 @@ const additionsTeam = {
 };
 
 const theAvengers = {
-  additionsTeam,
+  additionsTeam, // can add object to our initial avengers object.
   teamSize: 10,
   teamName: 'The Avengers',
   bruceBanner: 'The Hulk',
@@ -22,11 +22,11 @@ function* AvengersIterator(team) {
   yield team.ironMan;
   yield team.thor;
   yield team.captainAmerica;
-  const additionTeamGenerator = AdditionsIterator(team.additionsTeam);
-  yield* additionTeamGenerator;
+  const additionTeamGenerator = AdditionsIterator(team.additionsTeam); // we can set this iterator to a constant.
+  yield* additionTeamGenerator; // yield * will trick our initial iterator to return the statements from our additions iterator.
 }
 
-function* AdditionsIterator(team) {
+function* AdditionsIterator(team) { // separate iterator for our additions object.
   yield team.spiderMan,
   yield team.blackPanther,
   yield team.blackWidow,
