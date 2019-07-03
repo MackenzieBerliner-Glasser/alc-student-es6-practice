@@ -40,9 +40,9 @@ Note: Separate folders for each example `rest-params` and `spread-operator`.
 
 Overview on what destructuring is.
 
--Objects
--Arrays
--Using both!
+- Objects
+- Arrays
+- Using both!
 
 ### Classes:
 
@@ -62,4 +62,5 @@ Concepts:
   - `yield` keyword
   - `function*` and what it means
   - generator delegation.
+- `Symbol` iterator with generators
 
